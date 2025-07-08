@@ -1,5 +1,4 @@
 # sanmol-shipping
-# WordPress Plugin
 
 ## 🔧 Installation Instructions
 
